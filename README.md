@@ -20,6 +20,6 @@ The aim of this project is to compare total Summer Olympic medals for countries 
 ---
 
 ## Research Question  
-**Do countries that have hosted the Summer Olympics at least once win significantly more total medals on average than countries that have never hosted?**
+**The Relationship between Hosting the Summer Olympic Games and Total Medal Success**
 
 ---
